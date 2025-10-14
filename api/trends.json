@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T15:18:19.916988+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2025-10-14T16:21:46.566364+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -146,8 +146,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 15时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 16时21分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -159,11 +159,12 @@
             17,
             19,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时26分 ~ 15时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时26分 ~ 16时21分]"
         },
         {
           "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
@@ -177,6 +178,17 @@
           "time_info": "[00时26分 ~ 01时17分]"
         },
         {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时21分]"
+        },
+        {
           "title": "美国总统特朗普：不过埃尔多安也是我的朋友。",
           "url": "https://flash.jin10.com/detail/20251014002317904800",
           "source": "金十数据",
@@ -186,6 +198,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时44分]"
+        },
+        {
+          "title": "特朗普C位合影喊话：大家笑起来",
+          "url": "https://www.toutiao.com/trending/7560888494140182043/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时21分]"
         },
         {
           "title": "美国总统特朗普：当北约对埃尔多安有意见时，他们会打电话给我。",
@@ -210,15 +236,18 @@
           "time_info": "[00时32分 ~ 00时44分]"
         },
         {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            28,
+            5,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 16时21分]"
         },
         {
           "title": "美国总统特朗普：活着的人质已按时获释。",
@@ -257,20 +286,6 @@
           "time_info": "01时17分"
         },
         {
-          "title": "特朗普C位合影喊话：大家笑起来",
-          "url": "https://www.toutiao.com/trending/7560888494140182043/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            18,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 15时18分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：已与美国总统特朗普分享了关于乌克兰所需“战斧”导弹数量的“愿景”，并将于周五讨论具体细节。",
           "url": "https://flash.jin10.com/detail/20251014000056293800",
           "source": "金十数据",
@@ -283,18 +298,15 @@
           "time_info": "[00时26分 ~ 00时44分]"
         },
         {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
+          "title": "特朗普为何要保住对华贸易",
+          "url": "https://www.toutiao.com/trending/7560960551040323135/",
+          "source": "今日头条",
           "ranks": [
-            28,
-            5,
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时59分 ~ 15时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "马来西亚外交部长：美国总统特朗普期待见证泰柬停火协议。",
@@ -445,6 +457,18 @@
           "time_info": "[12时21分 ~ 14时26分]"
         },
         {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时59分 ~ 16时21分]"
+        },
+        {
           "title": "美国总统特朗普：（谈加沙协议）文件将明确规则和条例，文件是非常全面的。",
           "url": "https://flash.jin10.com/detail/20251014001922385800",
           "source": "金十数据",
@@ -583,17 +607,6 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
-          "title": "特朗普马克龙26秒“掰手腕式握手”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时59分 ~ 11时37分]"
-        },
-        {
           "title": "普京和特朗普未就通话事宜达成一致",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E5%B0%B1%E9%80%9A%E8%AF%9D%E4%BA%8B%E5%AE%9C%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4",
           "source": "百度热搜",
@@ -614,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "以前总理反驳特朗普：内塔尼亚胡都没认罪，赦免他是巨大的丑闻",
+          "url": "https://news.ifeng.com/c/8nRf7tuZiTU",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "市场消息：美国总统特朗普与乌克兰总统泽连斯基将于周五就防空和武器问题进行会谈，还将讨论与俄罗斯可能展开的谈判。",
@@ -655,7 +679,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -839,7 +863,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -860,8 +884,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时12分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时12分 ~ 16时21分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -944,6 +968,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "纳微半导体(NVTS.O)美股盘前大涨24%，此前公司宣布在为英伟达数据中心基础设施研发芯片方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20251014161434030800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251014040517860800",
           "source": "金十数据",
@@ -1005,6 +1040,17 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "美股盘前，明星科技股普跌，英伟达、博通、甲骨文均跌超2%。热门中概股盘前下跌，哔哩哔哩跌5％。",
+          "url": "https://wallstreetcn.com/livenews/2987359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251014004632914800",
           "source": "金十数据",
@@ -1049,6 +1095,20 @@
           "time_info": "[00时26分 ~ 07时14分]"
         },
         {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时21分]"
+        },
+        {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
           "url": "https://wallstreetcn.com/articles/3757107",
           "source": "华尔街见闻",
@@ -1060,20 +1120,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时14分 ~ 15时18分]"
-        },
-        {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 15时18分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
@@ -1320,106 +1366,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "目前的金价，你还敢追吗？",
-          "url": "https://www.zhihu.com/question/1960053472419378672",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时24分 ~ 07时14分]"
-        },
-        {
-          "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
-          "url": "https://wallstreetcn.com/livenews/2987235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D2%26stream_entry_id%3D31%26pos%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26flag%3D1%26band_rank%3D2%26lcate%3D5001%26display_time%3D1760426270%26pre_seqid%3D17604262708850375712971",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
-          "url": "https://wallstreetcn.com/livenews/2986893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 01时17分]"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
-          "url": "https://flash.jin10.com/detail/20251014102105537800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
-          "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
-          "url": "https://wallstreetcn.com/livenews/2987056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        },
-        {
-          "title": "金价疯狂涨势还能持续多久",
-          "url": "https://www.toutiao.com/trending/7560952972620860947/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "金价离10000美元不远了吗",
-          "url": "https://www.toutiao.com/trending/7560904267347791369/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "亚锦赛男团中国3比1伊朗晋级四强",
@@ -1502,6 +1450,17 @@
           "time_info": "[11时37分 ~ 13时18分]"
         },
         {
+          "title": "IEA月报：下调俄罗斯和伊朗第四季度原油供应预测。",
+          "url": "https://flash.jin10.com/detail/20251014160415086800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "伊朗外交部：美国总统对和平与对话的渴望，与美国针对伊朗的“敌对和犯罪行为”相矛盾。",
           "url": "https://flash.jin10.com/detail/20251014121259848800",
           "source": "金十数据",
@@ -1522,6 +1481,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "目前的金价，你还敢追吗？",
+          "url": "https://www.zhihu.com/question/1960053472419378672",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时24分 ~ 07时14分]"
+        },
+        {
+          "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
+          "url": "https://wallstreetcn.com/livenews/2987235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D2%26stream_entry_id%3D31%26pos%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26flag%3D1%26band_rank%3D2%26lcate%3D5001%26display_time%3D1760426270%26pre_seqid%3D17604262708850375712971",
+          "source": "微博",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时21分]"
+        },
+        {
+          "title": "金价疯狂涨势还能持续多久",
+          "url": "https://www.toutiao.com/trending/7560952972620860947/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时21分]"
+        },
+        {
+          "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
+          "url": "https://wallstreetcn.com/livenews/2986893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时17分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
+          "url": "https://flash.jin10.com/detail/20251014102105537800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "法国兴业银行将2026年底的黄金价格目标上调至每盎司5000美元，因ETF资金流动强劲和央行买入。",
+          "url": "https://wallstreetcn.com/livenews/2987056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "金价离10000美元不远了吗",
+          "url": "https://www.toutiao.com/trending/7560904267347791369/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
