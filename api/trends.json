@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T14:31:06.460335+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2025-10-15T15:17:45.298859+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 14时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 15时17分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 15时17分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -85,8 +85,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 14时31分]"
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 15时17分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -98,6 +98,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时17分]"
         },
         {
           "title": "特朗普：我对“两国方案”还没有表态",
@@ -113,17 +125,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时32分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
-          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "美法官裁定：特朗普政府将移民执法与拨款挂钩违反法院命令",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
+          "url": "https://news.ifeng.com/c/8nTJ3Z36eHu",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
@@ -367,6 +379,18 @@
           "time_info": "[01时17分 ~ 03时14分]"
         },
         {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时30分 ~ 15时17分]"
+        },
+        {
           "title": "特朗普100%关税威胁是虚晃一枪吗",
           "url": "https://www.toutiao.com/trending/7560969100101422601/",
           "source": "今日头条",
@@ -414,17 +438,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
-          "url": "https://www.cls.cn/detail/2169818",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 14时31分]"
         },
         {
           "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
@@ -583,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "美国国防部长：我们从美国总统特朗普那里学到了以实力促和平的积极运用。",
+          "url": "https://flash.jin10.com/detail/20251015145235222800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "美国总统特朗普：阿根廷总统米莱处于取得经济成功的边缘。 将（在阿根廷大选中）背书支持米莱。 如果米莱没能胜选，我们就不会浪费时间。 如果米莱败落，美方（未来）就不会对阿根廷慷慨了。 美国与阿根廷的贸易协议将是负责任的。 将与阿根廷展开贸易往来。 我希望看到阿根廷成功，这是一个非常重要的国家。 我喜欢美元，希望美元非常强劲。",
@@ -1389,6 +1413,37 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
+          "url": "https://www.zhihu.com/question/1961010617587561780",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时14分 ~ 15时17分]"
+        },
+        {
+          "title": "黄金有央行支撑而白银没有，高盛：投资金额小幅回落也会导致白银价格大幅回调",
+          "url": "https://wallstreetcn.com/articles/3757146",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1432,26 +1487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 14时31分]"
         }
       ]
     }
