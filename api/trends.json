@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T22:18:37.159455+08:00",
-  "total_titles_processed": 2127,
+  "generated_at": "2025-10-15T23:17:27.557529+08:00",
+  "total_titles_processed": 2193,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
+          "url": "https://www.cls.cn/detail/2170153",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时23分 ~ 23时17分]"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -48,21 +63,6 @@
           "time_info": "[00时22分 ~ 17时21分]"
         },
         {
-          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
-          "url": "https://www.cls.cn/detail/2170153",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时23分 ~ 22时18分]"
-        },
-        {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
           "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
           "source": "凤凰网",
@@ -70,8 +70,30 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 23时17分]"
+        },
+        {
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时21分 ~ 22时18分]"
+          "time_info": "[18时20分 ~ 23时17分]"
+        },
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 23时17分]"
         },
         {
           "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
@@ -101,17 +123,6 @@
           "time_info": "[16时23分 ~ 21时31分]"
         },
         {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时18分]"
-        },
-        {
           "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
           "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
           "source": "凤凰网",
@@ -137,17 +148,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时14分 ~ 17时21分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 22时18分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -655,6 +655,18 @@
           "time_info": "[16时23分 ~ 16时24分]"
         },
         {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D29%26pos%3D29%26cate%3D5001%26realpos%3D29%26display_time%3D1760534973%26pre_seqid%3D17605349731360054702",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 23时17分]"
+        },
+        {
           "title": "美国总统特朗普：乌克兰总统泽连斯基将于周五来访。",
           "url": "https://flash.jin10.com/detail/20251015024412153800",
           "source": "金十数据",
@@ -1084,17 +1096,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D29%26pos%3D29%26cate%3D5001%26realpos%3D29%26display_time%3D1760534973%26pre_seqid%3D17605349731360054702",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时31分"
-        },
-        {
           "title": "美国总统特朗普：我们希望看到阿根廷取得成功。",
           "url": "https://flash.jin10.com/detail/20251015021749199800",
           "source": "金十数据",
@@ -1247,6 +1248,30 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
+          "url": "https://wallstreetcn.com/articles/3757230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时17分]"
+        },
+        {
+          "title": "美股三大指数集体高开 百度涨近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时17分]"
+        },
+        {
           "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
           "url": "https://wallstreetcn.com/livenews/2988089",
           "source": "华尔街见闻-快讯",
@@ -1271,26 +1296,28 @@
           "time_info": "[05时14分 ~ 06时18分]"
         },
         {
-          "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
-          "url": "https://wallstreetcn.com/articles/3757230",
-          "source": "华尔街见闻",
+          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2988290",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时17分]"
         },
         {
-          "title": "美股三大指数集体高开 百度涨近3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%BF%913%25",
-          "source": "百度热搜",
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            21,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时17分]"
         },
         {
           "title": "受消息面影响，美股三大股指短线小幅下挫。",
@@ -1337,17 +1364,6 @@
           "time_info": "19时14分"
         },
         {
-          "title": "美股盘初，主要行业ETF多数上涨，公用事业ETF、半导体ETF、黄金ETF均涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/2988290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251015040522568800",
           "source": "金十数据",
@@ -1392,17 +1408,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。摩根士丹利股价上涨5.1%，Q3业绩全线超预期，创5月12日以来最大盘中涨幅。纳斯达克中国金龙指数涨逾1.5%，阿里巴巴涨超2%，百度涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/2988279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20251015040050861800",
           "source": "金十数据",
@@ -1428,7 +1433,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -1456,6 +1461,21 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29,
+            17,
+            23,
+            21,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 23时17分]"
+        },
+        {
           "title": "花旗旗下研究机构Citi Research将其铂金和钯金三个月目标价分别上调至1550美元和1350美元，理由是金价反弹以及美国对关键矿产调查截止日期前有大量资金流入。",
           "url": "https://flash.jin10.com/detail/20251015090135524800",
           "source": "金十数据",
@@ -1476,20 +1496,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "金价银价大涨原因",
-          "url": "https://www.douyin.com/hot/2270986",
-          "source": "抖音",
-          "ranks": [
-            29,
-            17,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 22时18分]"
         },
         {
           "title": "金价飙升带火洗沙盘",
@@ -1573,6 +1579,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "印度央行行长：黄金价格上涨助力印度央行储备增长。",
+          "url": "https://flash.jin10.com/detail/20251015222750293800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
           "title": "英国央行行长：全球不确定性与央行购金推高金价",
           "url": "https://flash.jin10.com/detail/20251015051028696800",
           "source": "金十数据",
@@ -1604,6 +1621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "金价暴涨 买黄金还是黄金股",
+          "url": "https://www.toutiao.com/trending/7561421312267439654/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         },
         {
           "title": "英国央行行长贝利：更高的不确定性与市场碎片化风险推动金价上涨。",
