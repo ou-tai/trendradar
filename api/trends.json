@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T18:19:01.092467+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-10-21T19:16:30.871412+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 88,
+      "match_count": 91,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -29,6 +29,52 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时26分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普称将于明年初访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普又改口：从未说过乌克兰会赢",
+          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年访华",
+          "url": "https://www.toutiao.com/trending/7563338600507768851/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
@@ -56,20 +102,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时15分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 19时16分]"
         },
         {
-          "title": "特朗普：很快将访问日本",
-          "url": "https://news.ifeng.com/c/8ndC4A073jf",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普称将于明年初访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
           "ranks": [
-            4,
-            3
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[14时26分 ~ 18时19分]"
+          "time_info": "[16时25分 ~ 19时16分]"
+        },
+        {
+          "title": "中方回应特朗普称明年将访华",
+          "url": "https://www.douyin.com/hot/2277574",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -97,11 +154,12 @@
             10,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 18时19分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 19时16分]"
         },
         {
           "title": "“气氛紧张”，媒体爆美乌总统会晤细节，特朗普敦促泽连斯基接受俄罗斯条件",
@@ -114,6 +172,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 09时15分]"
+        },
+        {
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "泽连斯基与特朗普对骂",
@@ -131,17 +202,6 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "特朗普称将于明年初访华，外交部回应",
-          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
-        },
-        {
           "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
           "source": "澎湃新闻",
@@ -150,11 +210,12 @@
             16,
             19,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时04分 ~ 18时19分]"
+          "appearance_count": 12,
+          "time_info": "[11时04分 ~ 19时16分]"
         },
         {
           "title": "特朗普对华服软,关税讹诈玩不转",
@@ -171,29 +232,6 @@
           "time_info": "[00时21分 ~ 11时04分]"
         },
         {
-          "title": "特朗普又改口：从未说过乌克兰会赢",
-          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于明年访华",
-          "url": "https://www.toutiao.com/trending/7563338600507768851/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
           "url": "https://www.cls.cn/detail/2174574",
           "source": "财联社热门",
@@ -206,18 +244,6 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "外交部回应特朗普称将于明年初访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
-        },
-        {
           "title": "胡锡进：特朗普压不动普京，又重新转压泽连斯基",
           "url": "https://news.ifeng.com/c/8nbomTXs1Dt",
           "source": "凤凰网",
@@ -227,17 +253,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 07时16分]"
-        },
-        {
-          "title": "中方回应特朗普称明年将访华",
-          "url": "https://www.douyin.com/hot/2277574",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
         },
         {
           "title": "特朗普专机附近疑发现狙击狩猎台",
@@ -263,19 +278,6 @@
           "time_info": "[09时15分 ~ 13时19分]"
         },
         {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
-        },
-        {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
           "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
           "source": "凤凰网",
@@ -285,6 +287,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时15分 ~ 12时20分]"
+        },
+        {
+          "title": "外交部回应特朗普称明年初访华",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D7%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2598%258E%25E5%25B9%25B4%25E5%2588%259D%25E8%25AE%25BF%25E5%258D%258E%2523%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26pos%3D8%26band_rank%3D7%26lcate%3D5001%26display_time%3D1761038207%26pre_seqid%3D17610382078290230603339",
+          "source": "微博",
+          "ranks": [
+            7,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 19时16分]"
         },
         {
           "title": "特朗普夸记者发型不错",
@@ -297,18 +312,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时25分 ~ 18时19分]"
-        },
-        {
-          "title": "外交部回应特朗普称明年初访华",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D7%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2598%258E%25E5%25B9%25B4%25E5%2588%259D%25E8%25AE%25BF%25E5%258D%258E%2523%26dgr%3D0%26flag%3D1%26stream_entry_id%3D31%26pos%3D8%26band_rank%3D7%26lcate%3D5001%26display_time%3D1761038207%26pre_seqid%3D17610382078290230603339",
-          "source": "微博",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 18时19分]"
         },
         {
           "title": "特朗普称一年后美国稀土将多如牛毛",
@@ -763,6 +766,17 @@
           "time_info": "[12时20分 ~ 13时19分]"
         },
         {
+          "title": "普京需绕路几千公里去会晤特朗普",
+          "url": "https://www.toutiao.com/trending/7563592133819502099/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "美国总统特朗普：乌克兰仍有可能获胜。一切皆有可能。",
           "url": "https://flash.jin10.com/detail/20251021000049648800",
           "source": "金十数据",
@@ -823,13 +837,24 @@
           "time_info": "[15时18分 ~ 16时25分]"
         },
         {
+          "title": "特朗普中断会议斥责摄影师",
+          "url": "https://www.toutiao.com/trending/7563605955687661631/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "路透社/益普索民意调查：尽管政府停摆，特朗普的支持率仍上升至42%。",
           "url": "https://flash.jin10.com/detail/20251021180331580800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -840,7 +865,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -851,7 +876,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -862,7 +887,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -944,6 +969,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：会晤埃及情报部门负责人，以推动特朗普的加沙计划。",
+          "url": "https://flash.jin10.com/detail/20251021184513486800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国总统特朗普：我已受邀前往澳大利亚，正在考虑中。",
           "url": "https://flash.jin10.com/detail/20251020235348812800",
           "source": "金十数据",
@@ -983,7 +1019,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1027,7 +1063,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1049,7 +1085,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1068,7 +1104,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -1096,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 11时04分]"
+        },
+        {
+          "title": "3M三季度净销售额65亿美元，同比增长3.3%。 三季度持续经营业务调整后每股收益为2.19美元，市场预期为2.07美元。 3M美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/2991205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -1161,6 +1208,17 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/2990831",
           "source": "华尔街见闻-快讯",
@@ -1208,6 +1266,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "通用汽车三季度调整后每股收益2.80美元，上年同期2.96美元，预估2.27美元。 三季度净销售额和营收485.9亿美元，同比下降0.3%，预估451.8亿美元。 三季度调整后息税前利润33.8亿美元，同比下降18%，预估26.9亿美元。 通用汽车预计全财年调整后每股收益9.75美元至10.50美元，此前预计8.25美元至10美元，市场预估9.48美元。 通用汽车预计全财年调整后息税前利润120亿美元至130亿美元，此前预计100亿美元至125亿美元，市场预估114.5亿美元。 通用汽车预计全财年汽车部门调整后自由现金流100亿美元至110亿美元，此前预计75亿美元至100亿美元。 通用汽车美股盘前涨近6%。",
+          "url": "https://wallstreetcn.com/livenews/2991202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251021003017938800",
           "source": "金十数据",
@@ -1217,6 +1286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "GE航空航天三季度营收113.1亿美元，预估104亿美元。 三季度经调整后每股收益1.66美元，预估1.47美元。 GE航空航天预计本财年调整后每股收益为6.00至6.20美元，此前预期为5.60至5.80美元。 GE航空航天美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2991195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -1249,8 +1329,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[12时20分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -1264,8 +1344,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时04分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[11时04分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -1277,8 +1357,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 18时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
@@ -1363,6 +1443,20 @@
           "time_info": "[11时04分 ~ 17时20分]"
         },
         {
+          "title": "金价大涨影响年轻人结婚",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E5%25BD%25B1%25E5%2593%258D%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%25BB%2593%25E5%25A9%259A%2523%26dgr%3D0%26band_rank%3D22%26filter_type%3Drealtimehot%26realpos%3D22%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26pos%3D23%26stream_entry_id%3D31%26display_time%3D1761030955%26pre_seqid%3D17610309549750311949431",
+          "source": "微博",
+          "ranks": [
+            22,
+            17,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时18分 ~ 19时16分]"
+        },
+        {
           "title": "新加坡银行：投资者可能仍热衷于在金价回落时增加黄金配置",
           "url": "https://flash.jin10.com/detail/20251021114921296800",
           "source": "金十数据",
@@ -1372,19 +1466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "金价大涨影响年轻人结婚",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E5%25BD%25B1%25E5%2593%258D%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%25BB%2593%25E5%25A9%259A%2523%26dgr%3D0%26band_rank%3D22%26filter_type%3Drealtimehot%26realpos%3D22%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26pos%3D23%26stream_entry_id%3D31%26display_time%3D1761030955%26pre_seqid%3D17610309549750311949431",
-          "source": "微博",
-          "ranks": [
-            22,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 18时19分]"
         },
         {
           "title": "金价银价大反攻",
@@ -1532,6 +1613,82 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
+          "url": "https://wallstreetcn.com/articles/3757469",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时15分]"
+        },
+        {
+          "title": "华尔街策略师：油价下跌可能推动10年期美债收益率触及3.75%",
+          "url": "https://flash.jin10.com/detail/20251021145618602800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
+          "url": "https://flash.jin10.com/detail/20251021134611538800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "中长期美债收益率跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2990816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时17分]"
+        },
+        {
+          "title": "机构：外资美债需求下滑预示美元走弱",
+          "url": "https://flash.jin10.com/detail/20251021185355112800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "Pepperstone：若非出现宏观下行风险，美债进一步上涨的空间会减弱",
+          "url": "https://flash.jin10.com/detail/20251021141637179800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -1594,71 +1751,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
-          "url": "https://wallstreetcn.com/articles/3757469",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时15分]"
-        },
-        {
-          "title": "华尔街策略师：油价下跌可能推动10年期美债收益率触及3.75%",
-          "url": "https://flash.jin10.com/detail/20251021145618602800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
-          "url": "https://flash.jin10.com/detail/20251021134611538800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "中长期美债收益率跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2990816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时17分]"
-        },
-        {
-          "title": "Pepperstone：若非出现宏观下行风险，美债进一步上涨的空间会减弱",
-          "url": "https://flash.jin10.com/detail/20251021141637179800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         }
       ]
     },
@@ -1729,8 +1821,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时16分 ~ 18时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时16分 ~ 19时16分]"
         },
         {
           "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
