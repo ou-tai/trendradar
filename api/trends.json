@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T13:19:30.057227+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-10-21T14:26:50.203614+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -36,11 +36,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 13时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 14时26分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
@@ -177,11 +178,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时26分]"
         },
         {
           "title": "特朗普计划明年初访华",
@@ -209,6 +211,21 @@
           "time_info": "[00时21分 ~ 05时18分]"
         },
         {
+          "title": "牛弹琴：特朗普被印度气坏了",
+          "url": "https://www.toutiao.com/trending/7563455829395902002/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            10,
+            14,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时26分]"
+        },
+        {
           "title": "美国银行业在向阿根廷提供200亿美元资金支持方面寻求抵押品。 美国银行业等待特朗普的财政部就签字抵押物出具指导意见。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/2990870",
           "source": "华尔街见闻-快讯",
@@ -225,11 +242,34 @@
           "source": "今日头条",
           "ranks": [
             14,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时26分]"
+        },
+        {
+          "title": "特朗普发辣眼AI视频引争议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%BE%A3%E7%9C%BCAI%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：特朗普政府正在评估房地美和房利美的发行计划，时间可能最早在2025年底。",
@@ -252,20 +292,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "牛弹琴：特朗普被印度气坏了",
-          "url": "https://www.toutiao.com/trending/7563455829395902002/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            10,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时19分]"
         },
         {
           "title": "美国总统特朗普：波音公司表现不错。",
@@ -334,6 +360,18 @@
           "time_info": "[09时15分 ~ 13时19分]"
         },
         {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时26分]"
+        },
+        {
           "title": "美国众议院民主党领导人Hakeem Jefferies：总统特朗普需要亲自下场，参与驴象两党之间关于政府临时融资立法草案的谈判。",
           "url": "https://wallstreetcn.com/livenews/2990835",
           "source": "华尔街见闻-快讯",
@@ -345,17 +383,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 07时16分]"
-        },
-        {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时19分]"
         },
         {
           "title": "泽连斯基和特朗普对骂隐藏哪些信息",
@@ -382,6 +409,18 @@
           "time_info": "[02时25分 ~ 03时17分]"
         },
         {
+          "title": "特朗普大规模拆除白宫建筑",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时26分]"
+        },
+        {
           "title": "美国总统特朗普：正努力达成（俄乌）协议。",
           "url": "https://flash.jin10.com/detail/20251021001233217800",
           "source": "金十数据",
@@ -392,6 +431,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
+        },
+        {
+          "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
+          "url": "https://news.ifeng.com/c/8nd0y77vH3q",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 14时26分]"
         },
         {
           "title": "美国总统特朗普：与普京讨论了袭击平民问题，要求停止袭击平民。",
@@ -597,28 +648,6 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
-          "title": "特朗普大规模拆除白宫建筑",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
-          "url": "https://news.ifeng.com/c/8nd0y77vH3q",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
           "url": "https://flash.jin10.com/detail/20251021100804742800",
           "source": "金十数据",
@@ -713,9 +742,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "特朗普：美国不能把所有武器都给乌",
+          "url": "https://www.toutiao.com/trending/7562417267796017194/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         },
         {
           "title": "特朗普与普京举行会晤的希望可能会搁浅。",
@@ -724,7 +764,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -735,7 +775,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -780,8 +820,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 14时26分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -1004,11 +1044,12 @@
             13,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 13时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 14时26分]"
         },
         {
           "title": "新加坡银行：投资者可能仍热衷于在金价回落时增加黄金配置",
@@ -1031,8 +1072,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时26分]"
         },
         {
           "title": "金价银价大反攻",
@@ -1107,11 +1148,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 14时26分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1122,8 +1164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时26分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1227,8 +1269,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时16分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时16分 ~ 14时26分]"
         },
         {
           "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
@@ -1272,6 +1314,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
+          "url": "https://www.cls.cn/detail/2175118",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时26分]"
+        },
+        {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
           "url": "https://wallstreetcn.com/livenews/2991014",
           "source": "华尔街见闻-快讯",
@@ -1284,29 +1340,58 @@
           "time_info": "[12时20分 ~ 13时19分]"
         },
         {
-          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
-          "url": "https://www.cls.cn/detail/2175118",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时19分]"
-        },
-        {
           "title": "日立与OpenAI建立战略合作伙伴关系",
           "url": "https://flash.jin10.com/detail/20251021123730273800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
+          "url": "https://wallstreetcn.com/articles/3757469",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时15分]"
+        },
+        {
+          "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
+          "url": "https://flash.jin10.com/detail/20251021134611538800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "中长期美债收益率跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2990816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时17分]"
         }
       ]
     },
@@ -1335,38 +1420,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
-          "url": "https://wallstreetcn.com/articles/3757469",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时15分]"
-        },
-        {
-          "title": "中长期美债收益率跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2990816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时17分]"
         }
       ]
     },
