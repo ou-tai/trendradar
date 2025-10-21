@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T14:26:50.203614+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2025-10-21T15:18:31.433531+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普对中国列出三大问题，中方表态",
@@ -31,19 +31,6 @@
           "time_info": "[00时21分 ~ 07时16分]"
         },
         {
-          "title": "特朗普开飞机泼粪,美国再次味大",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时26分]"
-        },
-        {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
           "url": "https://www.zhihu.com/question/1963528380650614990",
           "source": "知乎",
@@ -58,6 +45,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 09时15分]"
+        },
+        {
+          "title": "特朗普开飞机泼粪,美国再次味大",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345976&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E9%A3%9E%E6%9C%BA%E6%B3%BC%E7%B2%AA%2C%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E5%91%B3%E5%A4%A7",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 15时18分]"
         },
         {
           "title": "曝特朗普与泽连斯基再度激烈争吵",
@@ -162,6 +163,19 @@
           "time_info": "[09时15分 ~ 13时19分]"
         },
         {
+          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时18分]"
+        },
+        {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
           "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
           "source": "凤凰网",
@@ -173,17 +187,15 @@
           "time_info": "[09时15分 ~ 12时20分]"
         },
         {
-          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
           "source": "凤凰网",
           "ranks": [
-            5,
-            7,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时26分]"
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 15时18分]"
         },
         {
           "title": "特朗普计划明年初访华",
@@ -256,18 +268,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "特朗普：很快将访问日本",
-          "url": "https://news.ifeng.com/c/8ndC4A073jf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -322,6 +323,19 @@
           "time_info": "[00时21分 ~ 03时17分]"
         },
         {
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 15时18分]"
+        },
+        {
           "title": "美国总统特朗普：我期待亲自前往澳大利亚。",
           "url": "https://flash.jin10.com/detail/20251021001542000800",
           "source": "金十数据",
@@ -360,16 +374,17 @@
           "time_info": "[09时15分 ~ 13时19分]"
         },
         {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
+          "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
+          "url": "https://news.ifeng.com/c/8nd0y77vH3q",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16
+            9,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 14时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时18分]"
         },
         {
           "title": "美国众议院民主党领导人Hakeem Jefferies：总统特朗普需要亲自下场，参与驴象两党之间关于政府临时融资立法草案的谈判。",
@@ -431,18 +446,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时16分]"
-        },
-        {
-          "title": "反华分子急了：特朗普政府打压中国学生，忽视了惊人的新现实",
-          "url": "https://news.ifeng.com/c/8nd0y77vH3q",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时26分]"
         },
         {
           "title": "美国总统特朗普：与普京讨论了袭击平民问题，要求停止袭击平民。",
@@ -648,6 +651,28 @@
           "time_info": "[00时21分 ~ 01时16分]"
         },
         {
+          "title": "特朗普称一年后美国稀土将多如牛毛",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%B0%86%E5%A4%9A%E5%A6%82%E7%89%9B%E6%AF%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E4%25B8%2580%25E5%25B9%25B4%25E5%2590%258E%25E7%25BE%258E%25E5%259B%25BD%25E7%25A8%2580%25E5%259C%259F%25E5%25B0%2586%25E5%25A4%259A%25E5%25A6%2582%25E7%2589%259B%25E6%25AF%259B%2523%26dgr%3D0%26band_rank%3D14%26filter_type%3Drealtimehot%26realpos%3D14%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26pos%3D15%26stream_entry_id%3D31%26display_time%3D1761030955%26pre_seqid%3D17610309549750311949431",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "俄罗斯媒体：俄罗斯总统普京和美国总统特朗普、俄罗斯外长拉夫罗夫和美国国务卿鲁比奥的会谈中没有讨论新削减战略武器条约。",
+          "url": "https://flash.jin10.com/detail/20251021141752818800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "美国总统特朗普重返白宫以来，已有超过51.5万名非法外国人被驱逐出境，特朗普有望在执政第一年结束前驱逐60万名非法移民，打破历史记录。",
           "url": "https://flash.jin10.com/detail/20251021100804742800",
           "source": "金十数据",
@@ -668,6 +693,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "特朗普对泽连斯基的态度发生怎样转变",
+          "url": "https://www.toutiao.com/trending/7563539201593970217/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美国总统特朗普：澳大利亚将购买大量波音(BA.N)飞机。",
@@ -753,7 +789,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -797,6 +833,20 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
+          "url": "https://www.cls.cn/detail/2175088",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 15时18分]"
+        },
+        {
           "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2174932",
           "source": "财联社热门",
@@ -808,20 +858,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 11时04分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
-          "url": "https://www.cls.cn/detail/2175088",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 14时26分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -935,6 +971,110 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31784199",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 15时18分]"
+        },
+        {
+          "title": "新加坡银行：投资者可能仍热衷于在金价回落时增加黄金配置",
+          "url": "https://flash.jin10.com/detail/20251021114921296800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
+          "url": "https://www.cls.cn/detail/2175165",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时04分 ~ 15时18分]"
+        },
+        {
+          "title": "金价银价大反攻",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26realpos%3D9%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%2523%26pos%3D10%26cate%3D5001%26dgr%3D0%26display_time%3D1761009227%26pre_seqid%3D17610092271340230781134",
+          "source": "微博",
+          "ranks": [
+            9,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时20分]"
+        },
+        {
+          "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
+          "url": "https://flash.jin10.com/detail/20251021102951257800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时04分"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D22%26realpos%3D22%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26pos%3D23%26cate%3D5001%26dgr%3D0%26display_time%3D1761009227%26pre_seqid%3D17610092271340230781134",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "金价大涨影响年轻人结婚",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E6%25B6%25A8%25E5%25BD%25B1%25E5%2593%258D%25E5%25B9%25B4%25E8%25BD%25BB%25E4%25BA%25BA%25E7%25BB%2593%25E5%25A9%259A%2523%26dgr%3D0%26band_rank%3D22%26filter_type%3Drealtimehot%26realpos%3D22%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26pos%3D23%26stream_entry_id%3D31%26display_time%3D1761030955%26pre_seqid%3D17610309549750311949431",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
+          "url": "https://wallstreetcn.com/livenews/2990806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 8,
       "titles": [
@@ -1032,100 +1172,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31784199",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 14时26分]"
-        },
-        {
-          "title": "新加坡银行：投资者可能仍热衷于在金价回落时增加黄金配置",
-          "url": "https://flash.jin10.com/detail/20251021114921296800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
-          "url": "https://www.cls.cn/detail/2175165",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时04分 ~ 14时26分]"
-        },
-        {
-          "title": "金价银价大反攻",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26realpos%3D9%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%2523%26pos%3D10%26cate%3D5001%26dgr%3D0%26display_time%3D1761009227%26pre_seqid%3D17610092271340230781134",
-          "source": "微博",
-          "ranks": [
-            9,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时15分 ~ 12时20分]"
-        },
-        {
-          "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
-          "url": "https://flash.jin10.com/detail/20251021102951257800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D22%26realpos%3D22%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26pos%3D23%26cate%3D5001%26dgr%3D0%26display_time%3D1761009227%26pre_seqid%3D17610092271340230781134",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
-          "url": "https://wallstreetcn.com/livenews/2990806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -1149,11 +1197,12 @@
           "ranks": [
             13,
             5,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 15时18分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -1161,11 +1210,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时18分]"
+        },
+        {
+          "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
+          "url": "https://wallstreetcn.com/livenews/2991082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -1200,6 +1261,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
+          "url": "https://wallstreetcn.com/articles/3757469",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 09时15分]"
+        },
+        {
+          "title": "华尔街策略师：油价下跌可能推动10年期美债收益率触及3.75%",
+          "url": "https://flash.jin10.com/detail/20251021145618602800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
+          "url": "https://flash.jin10.com/detail/20251021134611538800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "中长期美债收益率跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/2990816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 06时17分]"
+        },
+        {
+          "title": "Pepperstone：若非出现宏观下行风险，美债进一步上涨的空间会减弱",
+          "url": "https://flash.jin10.com/detail/20251021141637179800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -1269,8 +1395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 15时18分]"
         },
         {
           "title": "周一（10月20日）纽约尾盘，ICE美元指数涨0.16%，报98.592点，日内交投区间为98.386-98.616点，全天呈现出多个V形走势。 彭博美元指数涨0.11%，报1209.07点，日内交投区间为1206.92-1209.70点。",
@@ -1324,8 +1450,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时26分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时18分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -1349,49 +1475,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
-          "url": "https://wallstreetcn.com/articles/3757469",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 09时15分]"
-        },
-        {
-          "title": "摩根士丹利：10年期美债收益率跌破4%后可能进一步下跌",
-          "url": "https://flash.jin10.com/detail/20251021134611538800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时26分"
-        },
-        {
-          "title": "中长期美债收益率跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/2990816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时21分 ~ 06时17分]"
         }
       ]
     },
