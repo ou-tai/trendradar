@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T12:20:51.984474+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-10-24T13:17:25.779118+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时22分 ~ 12时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
           "title": "特朗普访日行程公布",
@@ -97,6 +97,19 @@
           "time_info": "[09时10分 ~ 12时20分]"
         },
         {
+          "title": "白宫：特朗普将访问马来西亚、日本、韩国",
+          "url": "https://news.ifeng.com/c/8nhzSOzpBcB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时17分]"
+        },
+        {
           "title": "普京回应特朗普取消会晤",
           "url": "https://news.ifeng.com/c/8nhZDfyEWZm",
           "source": "凤凰网",
@@ -108,16 +121,15 @@
           "time_info": "[09时10分 ~ 11时00分]"
         },
         {
-          "title": "白宫：特朗普将访问马来西亚、日本、韩国",
-          "url": "https://news.ifeng.com/c/8nhzSOzpBcB",
+          "title": "特朗普：终止与加拿大的所有贸易谈判",
+          "url": "https://news.ifeng.com/c/8ni2EpR7ztO",
           "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
@@ -192,9 +204,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
+          "url": "https://www.cls.cn/detail/2179005",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时17分]"
         },
         {
           "title": "Rigetti Computing Inc.称与美国（特朗普政府）洽谈量子融资。（CNBC）",
@@ -209,6 +235,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
+          "url": "https://news.ifeng.com/c/8nhrwh3rstP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时17分]"
         },
         {
           "title": "特朗普：从现在起终止与加拿大的所有贸易谈判",
@@ -286,19 +323,6 @@
           "time_info": "[02时25分 ~ 04时19分]"
         },
         {
-          "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
-          "url": "https://www.cls.cn/detail/2179005",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时20分]"
-        },
-        {
           "title": "福特汽车CEO：现在，（美国总统特朗普挑起的）关税的影响处于“一个更加合理的水平”。",
           "url": "https://wallstreetcn.com/livenews/2992761",
           "source": "华尔街见闻-快讯",
@@ -347,6 +371,19 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
+          "url": "https://www.cls.cn/detail/2179115",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时17分]"
+        },
+        {
           "title": "“特朗普取消会晤” 普京发声",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E4%BC%9A%E6%99%A4%E2%80%9D+%E6%99%AE%E4%BA%AC%E5%8F%91%E5%A3%B0",
           "source": "百度热搜",
@@ -358,17 +395,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时10分 ~ 12时20分]"
-        },
-        {
-          "title": "特朗普赦免赵长鹏，白宫回应“是否利益输送”",
-          "url": "https://news.ifeng.com/c/8nhrwh3rstP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时20分]"
         },
         {
           "title": "科威特石油部长：如果被（美国总统特朗普提出）要求，石油输出国组织（OPEC）准备增产石油。",
@@ -384,18 +410,6 @@
           "time_info": "[02时25分 ~ 04时19分]"
         },
         {
-          "title": "白宫“股神”又发力了？美量子科技股集体暴涨 只因传闻特朗普考虑投资",
-          "url": "https://www.cls.cn/detail/2179115",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时20分]"
-        },
-        {
           "title": "日本首相高市早苗安排10月25日（周六）与美国总统特朗普通电话。（Kyodo）",
           "url": "https://wallstreetcn.com/livenews/2992708",
           "source": "华尔街见闻-快讯",
@@ -407,6 +421,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时25分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179344",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时17分]"
         },
         {
           "title": "特朗普：与加拿大的所有贸易谈判都终止了。",
@@ -505,6 +531,18 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "特朗普对普京翻脸 俄乌还可能和谈吗",
+          "url": "https://www.toutiao.com/trending/7564610390873624070/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时17分]"
+        },
+        {
           "title": "哥伦比亚总统佩特罗：美国总统特朗普不太可能对石油征收关税，哥伦比亚可以缓解对其他出口的影响。",
           "url": "https://flash.jin10.com/detail/20251024021527247800",
           "source": "金十数据",
@@ -539,17 +577,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时15分]"
-        },
-        {
-          "title": "特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179344",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "白宫：特朗普与普京会晤并非完全不可能",
@@ -594,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A6%E5%85%8D%E5%B8%81%E5%AE%89%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B5%B5%E9%95%BF%E9%B9%8F",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "俄罗斯总统普京：与美国总统特朗普讨论了俄罗斯石油供应形势对全球油价的影响，包括对美国的影响。",
@@ -739,6 +777,28 @@
           "time_info": "03时16分"
         },
         {
+          "title": "梅德韦杰夫称特朗普踏上对俄战争之路",
+          "url": "https://www.toutiao.com/trending/7564265609349955627/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "特朗普：终止与加拿大的所有贸易谈判",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BB%88%E6%AD%A2%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E6%89%80%E6%9C%89%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国总统特朗普：（当谈及政府停摆）收到一名私人捐助者提供的1.3亿美元支票，用于支付军人薪资的任何不足，以应对政府停摆。",
           "url": "https://flash.jin10.com/detail/20251024044832222800",
           "source": "金十数据",
@@ -822,7 +882,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -869,17 +929,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "特朗普对普京翻脸 俄乌还可能和谈吗",
-          "url": "https://www.toutiao.com/trending/7564610390873624070/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "美国白宫：特朗普希望看到俄罗斯采取行动，而不仅仅是空谈。",
@@ -934,8 +983,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 13时17分]"
         },
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -947,8 +996,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 13时17分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -1123,22 +1172,24 @@
           "source": "微博",
           "ranks": [
             13,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 13时17分]"
         },
         {
           "title": "分析人士：国际金价长期仍看涨",
           "url": "https://www.douyin.com/hot/2280483",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时17分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金早盘价为942.46元/克，较国际金价(942.81元/克)，低0.35元/克",
@@ -1167,8 +1218,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时20分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时17分]"
         },
         {
           "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
@@ -1230,8 +1281,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 13时17分]"
         },
         {
           "title": "加密货币交易平台Kraken：正在调查与阿根廷比索资金通道相关的问题，存款可能会出现延迟。",
