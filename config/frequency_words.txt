@@ -12,9 +12,7 @@ openai
 sora
 
 iphone
-ipad
 mac
-ios
 
 ai
 人工智能
